@@ -5,7 +5,7 @@
 
 
 
--👋 olá eu sou laura silveira
+-👋 olá eu sou **Laura silveira
 -👍 meu email é laura.silveira@escola.pr.gov.br 
 - 👀 estou interessado em aprender sobre programação
 - 🌱 estou interessado em programar jogos no scratch, github
